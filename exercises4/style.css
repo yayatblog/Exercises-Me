@@ -1,0 +1,191 @@
+* {
+	padding: 0px;
+	margin-top: 0px;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+body {
+	background-image: url('images/main_bg.gif');
+	min-height: 650px;
+}
+#wrapper {
+	width: 900px;
+	min-height: 650px;
+	margin: auto;
+}
+#wrapper #header{
+	background-color: black;
+	width: 900px;
+	height: 200px;
+}
+#wrapper #header #header_left {
+	width: 300px;
+	height: 200px;
+	float: left;
+	position: absolute;
+}
+#wrapper #header #header_left img{
+	width: 290px;
+	height: 230px;
+	position: relative;
+	margin-top: -25px;
+}
+#wrapper #header #header_right {
+	width: 600px;
+	height: 200px;
+	float: right;
+	margin-top: -30px;
+}
+#wrapper #header #header_right img{
+	position: relative;
+	width: 624px;
+	float: right;
+	margin-top: -95px;
+	margin-left: -14px;
+	margin-right: 0px;
+}
+#wrapper #nav{
+	background-color: black;
+	width: 900px;
+	height: 35px;
+	margin: auto;
+	margin-top: -12px;
+	position: relative;
+}
+#wrapper #nav .menu ul{
+	list-style-type: none;
+}
+#wrapper #nav .menu ul li{
+	float: left;
+	margin-left: 30px;
+	margin-right: 25px;
+}
+#wrapper #nav .menu ul li a{
+	font-size: 16px;
+	height: 30px;
+	text-decoration: none;
+	color: white;
+	display: block;
+	text-align: center;
+	line-height: 35px;
+	margin-left: 50px;
+	margin-right: 20px;
+}
+#wrapper #content{
+	background-image: url(images/main_bg.gif);
+	width: 900px;
+	min-height: 400px;
+	position: absolute;
+}
+#wrapper #content #content_left{
+	margin-top: 15px;
+	width: 320px;
+	height: 385px;
+	float: left;
+}
+#wrapper #content #content_left #profile{
+	width: 320px;
+	height: 278px;
+	background-color: white;
+}
+#wrapper #content #content_left #profile h1{
+	width: 320px;
+	height: 30px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	line-height: 25px;
+	font-size: 14px;
+}
+#wrapper #content #content_left #profile img{
+	border:none;
+	float: left;
+	margin-top: -10px;
+	margin-right: 5px;
+}
+#wrapper #content #content_left #profile p{
+	line-height: 22px;
+	font-size: 8px;
+	font-weight: 25px;
+}
+#wrapper #content #content_left #other img{
+	
+	width: 320px;
+	height: auto;
+	margin-top: 20px;
+}
+#wrapper #content #content_right{
+	background-color: white;
+	margin-top: 15px;
+	width: 565px;
+	min-height: 385px;
+	float: right;
+}
+#wrapper #content #content_right #container{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+#wrapper #content #content_right .indent{
+	text-indent: 25px;
+}
+#wrapper #content #content_right #satu img{
+	width: 120px;
+	height: auto;
+	float: left;
+	margin-right: 5px;
+	margin-left: 5px; 
+}
+#wrapper #content #content_right #dua img{
+	width: 60px;
+	height: auto;
+	float: left;
+	margin-right: 5px;
+	margin-left: 5px; 
+}
+hr {
+	border:1px dashed;
+	margin-bottom: 30px;
+}
+#wrapper #content #content_right p{
+	text-align: justify;
+}
+#wrapper #content #content_right h1{
+	font-size: 24px;
+	margin-top: 10px;
+}
+#wrapper #content #footer{
+	color: black;
+	width: 900px;
+	height: 50px;
+	line-height: 50px;
+	position: relative;
+	margin: auto;
+	clear: both;
+	font-size: 14px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
